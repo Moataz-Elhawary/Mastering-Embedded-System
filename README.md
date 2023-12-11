@@ -1,1 +1,1 @@
-# Embedded-System-online-diploma-KS
+# Embedded-System-Online-Diploma
