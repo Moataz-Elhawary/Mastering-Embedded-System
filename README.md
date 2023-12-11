@@ -3,6 +3,6 @@
 ## Contents
 
 ### First Term 
- C p
- Data
+ - C p
+ - Data
 
