@@ -1,1 +1,1 @@
-# Embedded-System-Online-Diploma
+# Embedded-Systems-Online-Diploma
