@@ -15,3 +15,4 @@ Console-output ▶  Enter a integer : 25  , You entered : 25
 write C Program to Add Two Integers
 should see the Console as following :  
 Console-output ▶ Enter two integers: 12 , 11    Sum: 23
+----------------------------------
