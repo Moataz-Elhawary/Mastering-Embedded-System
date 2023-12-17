@@ -27,7 +27,7 @@ Console-output ▶ Enter two numbers : (2.4 , 1.1)   Product : 2.640000
 Write C Program to Find ASCII Value of a Character :  
 Console_output ▶ Enter a character : G ASCII value of G = 71
 
-Ⅵ [EX_6]()
+Ⅵ [EX_6](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/1_C_Basics/Assignments/EX_6.c)
 --
 Write Source Code to Swap Two Numbers     
 Console_output ▶   
