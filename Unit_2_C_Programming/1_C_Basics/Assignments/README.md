@@ -21,3 +21,8 @@ Console-output ▶ Enter two integers : (12 , 11)  Sum: 23
 Write C Program to Multiply two Floating Point Numbers
 i should see the Console as following  :  
 Console-output ▶ Enter two numbers : (2.4 , 1.1)   Product : 2.640000
+
+Ⅴ [EX_5]()
+--
+Write C Program to Find ASCII Value of a Character
+Console_output ▶ Enter a character : G ASCII value of G = 71
