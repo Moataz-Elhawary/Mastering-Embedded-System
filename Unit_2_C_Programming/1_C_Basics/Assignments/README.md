@@ -26,3 +26,12 @@ Console-output ▶ Enter two numbers : (2.4 , 1.1)   Product : 2.640000
 --
 Write C Program to Find ASCII Value of a Character :  
 Console_output ▶ Enter a character : G ASCII value of G = 71
+
+Ⅵ [EX_6]()
+--
+Write Source Code to Swap Two Numbers     
+Console_output ▶   
+Enter value of a: 1.20   
+Enter value of b: 2.45    
+After swapping, value of a = 2.45    
+After swapping, value of b = 1.2    
