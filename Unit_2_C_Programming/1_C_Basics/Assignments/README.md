@@ -2,7 +2,11 @@
 
 Write C Program to Print a Sentence
 should see the Console as following :
-Console-output => " C Programming "
+Console-output ▶ " C Programming "
 --------------------------------
-Ⅱ [EX_2:]()
+Ⅱ [EX_2:](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/1_C_Basics/Assignments/EX_2.c)
 
+Write C Program to Print a Integer Entered by a User
+should see the Console as following :
+Console-output ▶  Enter a integer : 25  , You entered : 25
+--------------------------------
