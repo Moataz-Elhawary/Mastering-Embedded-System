@@ -14,10 +14,10 @@ Console-output ▶  Enter a integer : 25 , You entered : 25
 --
 write C Program to Add Two Integers
 should see the Console as following :  
-Console-output ▶ Enter two integers: (12 , 11)  Sum: 23
+Console-output ▶ Enter two integers : (12 , 11)  Sum: 23
 
 Ⅳ [EX_4]()
 --
 Write C Program to Multiply two Floating Point Numbers
 i should see the Console as following  :  
-Console-output ▶ Enter two numbers : (2.4 , 1.1)  Product : 2.640000
+Console-output ▶ Enter two numbers : (2.4 , 1.1)   Product : 2.640000
