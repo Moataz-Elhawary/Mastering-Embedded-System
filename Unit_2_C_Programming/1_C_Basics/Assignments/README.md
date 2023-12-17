@@ -10,3 +10,8 @@ Write C Program to Print a Integer Entered by a User
 should see the Console as following : 
 Console-output ▶  Enter a integer : 25  , You entered : 25
 --------------------------------
+Ⅲ [EX_3:]()
+
+Write C Program to Add Two Integers
+should see the Console as following :  
+Console-output ▶ Enter two integers: 12 , 11    Sum: 23
