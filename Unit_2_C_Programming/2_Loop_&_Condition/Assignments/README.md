@@ -1,7 +1,7 @@
 Ⅰ [EX_1](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_1.c)
 --
-Write C Program to Check Whether a Number is Even or Odd .
-The program idea : ↴
+Write C Program to Check Whether a Number is Even or Odd .    
+The program idea : ↴                                     
 Numbers perfectly divisible by 2 are known even numbers and numbers which are not divisible by 2 are 
 called odd numbers. This program takes an integer from user and checks whether that number is even 
 or odd and displays the result.
@@ -13,7 +13,7 @@ Enter an integer you want to check : 12  ➙ 12 is even.
 
 Ⅱ [EX_2](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_2.c)
 --
-Write C Program to Check Vowel or Consonant .
+Write C Program to Check Vowel or Consonant .            
 Alphabets a, e, i, o and u are known as vowels and all alphabets except these characters are known as 
 consonants. This program asks user to enter a character and checks whether that character is vowel or 
 not.
@@ -25,7 +25,7 @@ Enter an alphabet : G  ➙  G is a consonant.
 
 Ⅲ [EX_3](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_3.c)
 --
-Write C Program to Find the Largest Number Among Three Numbers .
+Write C Program to Find the Largest Number Among Three Numbers .                    
 In this program user is asked to enter three numbers and this program will find the largest number 
 among three num
 bers entered by user. This program can be solved in more than one way.
