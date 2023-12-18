@@ -1,4 +1,4 @@
-                                                                    ﷽
+                                                          ﷽
 
 # Mastering-Embedded-Systems-Online-Diploma✍
 ---
