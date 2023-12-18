@@ -1,6 +1,6 @@
-# Mastering-Embedded-Systems-Online-Diploma
+# Mastering-Embedded-Systems-Online-Diploma✍
 ---
-## * Contents
+## * Contents ︾
 
 ### ➣ First Term 
  ➥ [Unit 1 ➯ Diploma Prerequisites](https://github.com/Moataz-Elhawary/Mastering-Embedded-System) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
