@@ -35,14 +35,23 @@ Enter three numbers : ( 12.2 , 13.452 , 10.193 )  ➙  Largest number = 13.45
 
 Ⅳ [EX_4](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_4.c)
 --
-Write C Program to Multiply two Floating Point Numbers
-i should see the Console as following  :  
-Console-output ▶ Enter two numbers : (2.4 , 1.1)   Product : 2.640000
+Write C Program to Check Whether a Number is Positive or Negative                                                        
+This program takes a number from user and checks whether that number is either positive or negative or zero.                                                   
+
+Output 1 ▶                                                               
+Enter a number : 12.3   ➙   12.30 is positive                                                            
+Output 2 ▶                                                                                                                       
+Enter a number :   0     ➙  You entered zero.                                 
 
 Ⅴ [EX_5](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_5.c)
 --
-Write C Program to Find ASCII Value of a Character :  
-Console_output ▶ Enter a character : G ASCII value of G = 71
+Write C Program to Check Whether a Character is an Alphabet or not                                                                                     
+This program takes a character from user and checks whether that character is an alphabet or not.                                                
+
+Output 1 ▶                                                                              
+Enter a character  : ( * )  ➙  (  * ) is not an alphabet                                      
+Output 2 ▶                                                  
+Enter a character  : ( K )  ➙  ( K ) is an alphabet
 
 Ⅵ [EX_6](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_6.c)
 --
