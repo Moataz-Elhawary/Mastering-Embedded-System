@@ -55,17 +55,31 @@ Enter a character  : ( K )  ➙  ( K ) is an alphabet
 
 Ⅵ [EX_6](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_6.c)
 --
-Write Source Code to Swap Two Numbers     
-Console_output ▶   
-Enter value of a: 1.20   
-Enter value of b: 2.45    
-After swapping, value of a = 2.45    
-After swapping, value of b = 1.2    
+Write C Program to Calculate Sum of Natural Numbers .                                                         
+Positive integers 1, 2, 3, 4... are known as natural numbers. This program takes a positive integer from user( suppose user entered n ) then, this program displays the value of 1+2+3+....n.                                                                  
+
+Output ▶  Enter an integer : 100   ➙    Sum = 5050                      
 
 Ⅶ [EX_7](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_7.c)
 --
-It is an interview trick ✍   
-Write Source Code to Swap Two Numbers without temp variable.
+Write C Program to Find Factorial of a Number For any positive number n, its factorial is given by :                                                       
+( factorial = 1*2*3*4....n ) If a number is negative, factorial does not exist and factorial of 0 is 1.                                                               
+The program idea : ↴                                                  
+This program takes an integer from a user. If user enters negative integer, this program will display error 
+message and if user enters non-negative integer, this program will display the factorial of that number.                                     
+
+Output 1 ▶                                                              
+Enter an integer : ( -5 )  ➙  Error!!! Factorial of negative number doesn't exist.                                            
+Output 2 ▶                                                    
+Enter an integer : ( 10 )  ➙  Factorial = 3628800
 
 Ⅷ [EX_8](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_8.c)
 --
+Write C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
+The program idea : ↴                                                                               
+This program takes an arithmetic operator ( +, - , *, / ) and two operands from an user and performs the operation on those two operands depending upon the operator entered by user.                                                                             
+
+Output ▶                                                                                  
+Enter operator either + or - or * or divide : ( - )                                                                                
+Enter two operands : ( 3.4 )  ( 8.4 )                                                                          
+( 3.4 - 8.4  =  - 5.0 )                            
