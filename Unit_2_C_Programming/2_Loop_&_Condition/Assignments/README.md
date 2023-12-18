@@ -7,7 +7,7 @@ called odd numbers. This program takes an integer from user and checks whether t
 or odd and displays the result.
 
 Output 1 ▶                                              
-Enter an integer you want to check : 25  ➙ 25 is odd.
+Enter an integer you want to check : 25  ➙ 25 is odd.                                              
 Output 2 ▶                                         
 Enter an integer you want to check : 12  ➙ 12 is even.
 
@@ -19,7 +19,7 @@ consonants. This program asks user to enter a character and checks whether that 
 not.
 
 Output 1 ▶                                              
-Enter an alphabet : i  ➙  i is a vowel.
+Enter an alphabet : i  ➙  i is a vowel.                                              
 Output 2 ▶                                    
 Enter an alphabet : G  ➙  G is a consonant.
 
