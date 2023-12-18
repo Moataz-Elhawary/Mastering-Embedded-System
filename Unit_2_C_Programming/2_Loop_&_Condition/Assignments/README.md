@@ -75,8 +75,8 @@ Enter an integer : ( 10 )  ➙  Factorial = 3628800
 
 Ⅷ [EX_8](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_8.c)
 --
-Write C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
-The program idea : ↴                                                                               
+Write C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case                                                    
+The program idea : ↴                                                                                                                           
 This program takes an arithmetic operator ( +, - , *, / ) and two operands from an user and performs the operation on those two operands depending upon the operator entered by user.                                                                             
 
 Output ▶                                                                                  
