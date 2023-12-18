@@ -6,9 +6,9 @@ Numbers perfectly divisible by 2 are known even numbers and numbers which are no
 called odd numbers. This program takes an integer from user and checks whether that number is even 
 or odd and displays the result.
 
-Output 1 ▶
+Output 1 ▶                                              
 Enter an integer you want to check : 25  ➙ 25 is odd.
-Output 2 ▶
+Output 2 ▶                                         
 Enter an integer you want to check : 12  ➙ 12 is even.
 
 Ⅱ [EX_2](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_2.c)
@@ -18,9 +18,9 @@ Alphabets a, e, i, o and u are known as vowels and all alphabets except these ch
 consonants. This program asks user to enter a character and checks whether that character is vowel or 
 not.
 
-Output 1 ▶
+Output 1 ▶                                              
 Enter an alphabet : i  ➙  i is a vowel.
-Output 2 ▶
+Output 2 ▶                                    
 Enter an alphabet : G  ➙  G is a consonant.
 
 Ⅲ [EX_3](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_3.c)
@@ -30,7 +30,7 @@ In this program user is asked to enter three numbers and this program will find 
 among three num
 bers entered by user. This program can be solved in more than one way.
 
-Output ▶
+Output ▶                                                   
 Enter three numbers : ( 12.2 , 13.452 , 10.193 )  ➙  Largest number = 13.45
 
 Ⅳ [EX_4](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_4.c)
