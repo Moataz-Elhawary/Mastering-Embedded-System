@@ -1,4 +1,4 @@
-# Embedded-Systems-Online-Diploma
+# Mastering-Embedded-Systems-Online-Diploma
 ---
 ## * Contents
 
