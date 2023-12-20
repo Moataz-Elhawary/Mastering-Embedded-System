@@ -52,9 +52,9 @@ Enter a character  : ( * )  ➙  (  * ) is not an alphabet
 Output 2 ▶                                                  
 Enter a character  : ( K )  ➙  ( K ) is an alphabet
 
-Ⅵ [EX_6](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_6.c)
---
-Write C Program to Calculate Sum of Natural Numbers .                                                         
+Ⅵ [EX_6 : Write C Program to Calculate Sum of Natural Numbers.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_6.c)
+--                                                         
+The program idea : ↴                                                   
 Positive integers 1, 2, 3, 4... are known as natural numbers. This program takes a positive integer from user( suppose user entered n ) then, this program displays the value of 1+2+3+....n.                                                                  
 
 Output ▶  Enter an integer : 100   ➙    Sum = 5050                      
@@ -69,9 +69,8 @@ Enter an integer : ( -5 )  ➙  Error!!! Factorial of negative number doesn't ex
 Output 2 ▶                                                    
 Enter an integer : ( 10 )  ➙  Factorial = 3628800
 
-Ⅷ [EX_8](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_8.c)
---
-Write C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case                                                    
+Ⅷ [EX_8 : Write C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_8.c)
+--                                                   
 The program idea : ↴                                                                                                                           
 This program takes an arithmetic operator ( +, - , *, / ) and two operands from an user and performs the operation on those two operands depending upon the operator entered by user.                                                                             
 
