@@ -1,6 +1,6 @@
 /*
  ======================================================================================================================
- Name                    	: Write C Program to Check Whether a Character is an Alphabet or not.
+ Name                    	: Write C Program to Find Factorial of a Number For any positive number n.
  ----------------------------------------------------------------------------------------------------------------------
  Author                  	: Moataz Elhawary
  ----------------------------------------------------------------------------------------------------------------------
@@ -13,23 +13,33 @@
 
 int main()
 {
-    char ch ;
+    int num ;
+    unsigned long long Factorial=1 ;
     while(1)
     {
-        // Input a Character from user to check
-        printf("Enter a character :  ");
+        // Input a Number from user
+        printf("Enter a Positive Number :  ");
 
-        scanf(" %c",&ch);  // Note the space before %c to consume any leading whitespace
-
-        if(ch>'a'&&ch<'z' || ch>'A'&&ch<'Z')
+        scanf("%d",&num);
+        if (num < 0 )
         {
-            printf("%c Is an Alphabet \n",ch);
+            printf("Please enter a non-negative integer.\n");
+            if (num == 0 || num == 1 )
+            {
+                return 1 ;
+            }
         }
         else
         {
-            printf("%c Is not an alphabet \n",ch);
+            for (int i =1 ; i <=num ; i++)
+            {
+                Factorial*= i;
+
+            }
+            printf("Factorial of %d = %llu \n",num,Factorial);
         }
 
+        Factorial=1;
         printf("================================================\r\n");
 
     }
