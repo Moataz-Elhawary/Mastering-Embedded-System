@@ -1,6 +1,5 @@
-Ⅰ [EX_1](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_1.c)
+Ⅰ [EX_1 : Write C Program to Check Whether a Number is Even or Odd.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_1.c)
 --
-Write C Program to Check Whether a Number is Even or Odd .    
 The program idea : ↴                                     
 Numbers perfectly divisible by 2 are known even numbers and numbers which are not divisible by 2 are 
 called odd numbers. This program takes an integer from user and checks whether that number is even 
