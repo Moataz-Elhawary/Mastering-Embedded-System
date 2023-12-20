@@ -10,9 +10,9 @@ Enter an integer you want to check : 25  ➙ 25 is odd.
 Output 2 ▶                                         
 Enter an integer you want to check : 12  ➙ 12 is even.
 
-Ⅱ [EX_2](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_2.c)
---
-Write C Program to Check Vowel or Consonant .            
+Ⅱ [EX_2 : Write C Program to Check Vowel or Consonant.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_2.c)
+--            
+The program idea : ↴                                           
 Alphabets a, e, i, o and u are known as vowels and all alphabets except these characters are known as 
 consonants. This program asks user to enter a character and checks whether that character is vowel or 
 not.
@@ -22,9 +22,9 @@ Enter an alphabet : i  ➙  i is a vowel.
 Output 2 ▶                                    
 Enter an alphabet : G  ➙  G is a consonant.
 
-Ⅲ [EX_3](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_3.c)
---
-Write C Program to Find the Largest Number Among Three Numbers .                    
+Ⅲ [EX_3 : Write C Program to Find the Largest Number Among Three Numbers.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_3.c)
+--                    
+The program idea : ↴                                        
 In this program user is asked to enter three numbers and this program will find the largest number 
 among three num
 bers entered by user. This program can be solved in more than one way.
@@ -32,9 +32,9 @@ bers entered by user. This program can be solved in more than one way.
 Output ▶                                                   
 Enter three numbers : ( 12.2 , 13.452 , 10.193 )  ➙  Largest number = 13.45
 
-Ⅳ [EX_4](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_4.c)
---
-Write C Program to Check Whether a Number is Positive or Negative                                                        
+Ⅳ [EX_4 : Write C Program to Check Whether a Number is Positive or Negative.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_4.c)
+--                                                      
+The program idea : ↴                                          
 This program takes a number from user and checks whether that number is either positive or negative or zero.                                                   
 
 Output 1 ▶                                                               
@@ -42,9 +42,9 @@ Enter a number : 12.3   ➙   12.30 is positive
 Output 2 ▶                                                                                                                       
 Enter a number :   0     ➙  You entered zero.                                 
 
-Ⅴ [EX_5](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_5.c)
---
-Write C Program to Check Whether a Character is an Alphabet or not                                                                                     
+Ⅴ [EX_5 : Write C Program to Check Whether a Character is an Alphabet or not.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_5.c)
+--                                                                                    
+The program idea : ↴                                         
 This program takes a character from user and checks whether that character is an alphabet or not.                                                
 
 Output 1 ▶                                                                              
@@ -59,14 +59,11 @@ Positive integers 1, 2, 3, 4... are known as natural numbers. This program takes
 
 Output ▶  Enter an integer : 100   ➙    Sum = 5050                      
 
-Ⅶ [EX_7](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_7.c)
+Ⅶ [EX_7 : Write C Program to Find Factorial of a Number For any positive number n.](https://github.com/Moataz-Elhawary/Mastering-Embedded-System/blob/master/Unit_2_C_Programming/2_Loop_&_Condition/Assignments/EX_7.c)
 --
-Write C Program to Find Factorial of a Number For any positive number n, its factorial is given by :                                                       
-( factorial = 1*2*3*4....n ) If a number is negative, factorial does not exist and factorial of 0 is 1.                                                               
-The program idea : ↴                                                  
-This program takes an integer from a user. If user enters negative integer, this program will display error 
-message and if user enters non-negative integer, this program will display the factorial of that number.                                     
-
+The program idea : ↴                                                                                   
+its factorial is given by : ( factorial = 1*2*3*4....n ) If a number is negative, factorial does not exist and factorial of 0 is 1.                        
+This program takes an integer from a user. If user enters negative integer, this program will display error message and if user enters non-negative integer, this program will display the factorial of that number.                                                             
 Output 1 ▶                                                              
 Enter an integer : ( -5 )  ➙  Error!!! Factorial of negative number doesn't exist.                                            
 Output 2 ▶                                                    
