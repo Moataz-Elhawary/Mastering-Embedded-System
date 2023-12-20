@@ -13,20 +13,20 @@
 
 int main()
 {
-    int num1, num2, Result;
+    float num1, num2, Result;
     char Operator ;
 
     while(1)
     {
         // Input a Number from user
         printf("Enter a First Number :  ");
-        scanf("%d",&num1);
+        scanf("%f",&num1);
 
         printf("Enter Enter operator either (+) or (-) or (*) or (/)  : ");
         scanf(" %c",&Operator);
 
         printf("Enter a Second Number :  ");
-        scanf("%d",&num2);
+        scanf("%f",&num2);
 
         switch(Operator)
         {
@@ -55,7 +55,7 @@ int main()
             printf("Error! : Invalid operator.\n") ;
             return 0;
         }
-        printf("Result = %d \n",Result);
+        printf("Result = %.2f \n",Result);
 
         printf("================================================\r\n");
 
